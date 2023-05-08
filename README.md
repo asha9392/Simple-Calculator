@@ -1,6 +1,7 @@
 # OIBSIP LEVEL-2 TASK-1 Simple-Calculator
 # Simple-Calculator
 A simple calculatoe using HTML,CSS and JavaScript
+
 Design :
 
 ![design](https://user-images.githubusercontent.com/110220505/236860293-7158f017-ad17-445b-a189-2781ae3d284e.png)
